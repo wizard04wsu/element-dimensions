@@ -12,3 +12,5 @@ A lightweight utility to compute the position and box dimensions (margin, border
 import getDimensions from 'element-dimensions';
 const dims = getDimensions(document.querySelector('#my-element'));
 ```
+
+[Documentation](https://wizard04wsu.github.io/element-dimensions/module-Element%2520Dimensions.html)
